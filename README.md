@@ -1,25 +1,22 @@
-# Coffee-Sales
+# Coffee Bean Sales Analysis and Dashboard Project
 
---- Analysis Process
+Welcome to the Coffee Bean Sales Analysis portfolio project!
 
-Explored Dataset Details: Revealed the details of the dataset, offering a comprehensive understanding of its structure and complexities.
+This Excel-based analytics project showcases how raw sales data can be transformed into actionable insights through systematic data cleaning, integration, and visualization. Using 1,000 sales records across 4 coffee bean varieties from 3 different sources, the project demonstrates strong skills in Excel-based data wrangling, pivot table analysis, and dashboard design.
 
-Data Cleaning: Enhanced data quality by removing duplicate records and correcting column names.
+🔍 **Analysis Process**
 
-Custom Column Creation: Developed custom columns to categorize coffee bean types and sales figures.
+1. Exploratory Data Review: Examined dataset structure and attributes to understand key dimensions, measures, and complexities.
+2. Data Cleaning: Improved data quality by removing duplicates, correcting column names, and standardizing formats.
+3. Custom Column Creation: Built calculated fields to categorize coffee bean types and compute sales/profit figures.
+4. Data Integration: Merged data from 3 sources using VLOOKUP and INDEX-MATCH, creating a single, consolidated dataset.
+5. Data Analysis: Leveraged 5 pivot tables to summarize sales by bean type, roast level, geography, and year.
+6. Dashboard Development: Designed an interactive dashboard with pie, horizontal bar, and line charts, enhanced by slicers and a timeline for dynamic exploration.
 
-Data Integration: Employed VLOOKUP and INDEX MATCH functions to integrate data into a comprehensive dataset for analysis.
+📈 **Key Insights**
 
-Data Analysis: Summarized and analyzed the dataset using pivot tables to extract meaningful insights.
-
-Dashboard Development: Created an interactive dashboard utilizing slicers and timeline tools for dynamic data exploration.
-
---- Insights
-
-Highest Sales and Purchase Quantity: The USA leads in both sales and purchase quantities.
-
-Most Profitable Coffee: Liberica beans generate the highest profit.
-
-Sales Comparison: Total sales in 2022 are lower compared to 2019.
-
-Profit by Roast Type: Light roasted coffee beans yield higher profits than other roast types.
+1. Regional Leader: The USA recorded the highest sales volume and purchase quantities.
+2. Most Profitable Variety: Liberica beans emerged as the most profitable among the 4 coffee bean types.
+3. Sales Trend Comparison: Overall sales in 2022 were lower than in 2019, indicating a declining growth trend.
+4. Profit by Roast Type: Light roast beans delivered higher profit margins compared to other roast profiles.
+5. Decision Support: Dashboard interactivity will enable stakeholders to drill into specific product categories, time periods, and regions for faster, data-driven decisions.
