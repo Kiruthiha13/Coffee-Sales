@@ -20,3 +20,9 @@ This Excel-based analytics project showcases how raw sales data can be transform
 3. Sales Trend Comparison: Overall sales in 2022 were lower than in 2019, indicating a declining growth trend.
 4. Profit by Roast Type: Light roast beans delivered higher profit margins compared to other roast profiles.
 5. Decision Support: Dashboard interactivity will enable stakeholders to drill into specific product categories, time periods, and regions for faster, data-driven decisions.
+
+🧑‍💻 **About Me**
+
+Hi there! I'm Kiruthiha. I’m an IT professional working extensively with data to drive insights, support decision-making, and improve business outcomes. I’m passionate about turning raw data into meaningful stories through analysis and visualization.
+
+Let’s connect and discuss how data can power better business outcomes! 🚀
